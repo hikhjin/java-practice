@@ -1,4 +1,4 @@
-package variable;
+package section2;
 public class Var1 {
     public static void main(String[] args) {
         // 정수
