@@ -1,4 +1,4 @@
-package basic.section2;
+package basic.section1;
 
 public class ClassEx3 {
     public static void main(String[] args) {
